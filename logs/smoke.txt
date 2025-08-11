@@ -1,0 +1,10 @@
+npm -v: 11.4.2
+node -v: v20.19.4
+
+Summary:
+Files added/changed:
+- README_CLAIMS.md
+- logs/smoke.txt
+Command outputs:
+- npm -v: 11.4.2
+- node -v: v20.19.4
